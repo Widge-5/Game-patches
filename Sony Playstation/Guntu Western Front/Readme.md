@@ -31,3 +31,8 @@ MD5 hashes:
 Original BIN	637DBE143DB2DC769BB825D7732B1B87
 Patch v1.1 PPF	8BF3166F0DCBCEE43942B265B0A1B24E
 Patched BIN	E6B59B6EB5ADCDC410A6757B12E5162D
+
+
+**Support me**
+
+If you enjoyed this patch and want to support me, you can do so over at https://ko-fi.com/widge ...  or not, it's up to you.
