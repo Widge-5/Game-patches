@@ -9,7 +9,7 @@ The completed patch has passed a full playthrough with no problems reported.
 
 **Patching**
 
-This patch was created using a CUE/BIN image, consisting of a single BIN file, ripped from a copy of the Japanese disc (SLPS-01106) using ImgBurn.
+This patch was created using a CUE/BIN image, consisting of a single BIN file, ripped from a copy of the Japanese disc (SLPS-00583) using ImgBurn.
 
 The release includes the translation patch and the fully translated, proofread English manual.
 
