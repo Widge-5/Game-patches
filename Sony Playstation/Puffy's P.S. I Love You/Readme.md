@@ -33,3 +33,7 @@ Patched BIN    `F63CE8006E7ED7679D61EA32CF681B2C`
 
 If you enjoyed this patch and want to support me, you can do so over at https://ko-fi.com/widge ...  or not, it's up to you.
 
+
+**Click the image to see a video of the patch in action**
+[Click the image to watch it...](https://www.youtube.com/watch?v=hfPx3hItJTE)
+[![Watch the video](https://img.youtube.com/vi/hfPx3hItJTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=hfPx3hItJTE)

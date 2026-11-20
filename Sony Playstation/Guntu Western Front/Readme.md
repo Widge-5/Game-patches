@@ -36,3 +36,8 @@ MD5 hashes:
 **Support me**
 
 If you enjoyed this patch and want to support me, you can do so over at https://ko-fi.com/widge ...  or not, it's up to you.
+
+
+**Click the image to see a video of the patch in action**
+[Click the image to watch it...](https://www.youtube.com/watch?v=FnyrmX3FE8A)
+[![Watch the video](https://img.youtube.com/vi/FnyrmX3FE8A/maxresdefault.jpg)](https://www.youtube.com/watch?v=FnyrmX3FE8A)
