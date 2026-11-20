@@ -2,7 +2,7 @@ An English translation patch for **Puffy’s P.S. I Love You**, originally relea
 
 The patch translates the game’s Japanese text, including menus, minigame instructions, lightgun calibration prompts, memory-card messages, results screens, song titles and Japanese lettering in the graphics.
 
-Graphical text has been redrawn to follow the original artwork’s style and colours, with adjustments to sizing and positioning to accommodate the English wording.
+Graphical text has been redrawn to follow the original artwork’s style and colours.
 
 The original English song titles have been used where available.
 The songs themselves have not been translated.
@@ -23,9 +23,9 @@ The release includes the translation patch and the fully translated, proofread E
 
 
 **MD5 Hashes**
-Original BIN   `F5087E19A5488562DA17A0DDD77D428B`
-Patch v1.0 PPF `D07DB2E5F67DCD9FF5C4E613A978DB00`
-Patched BIN    `F63CE8006E7ED7679D61EA32CF681B2C`
+- Original BIN   `F5087E19A5488562DA17A0DDD77D428B`
+- Patch v1.0 PPF `D07DB2E5F67DCD9FF5C4E613A978DB00`
+- Patched BIN    `F63CE8006E7ED7679D61EA32CF681B2C`
 
 
 
